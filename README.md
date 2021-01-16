@@ -113,6 +113,21 @@ hat ... Augen = tiene los ojos ...
 | schön       | hermoso/-a; bonito/-a |
 | intelligent | inteligente           |
 
+## Orte
+
+| Deutsch      | Spanisch      |
+| ------------ | ------------- |
+| berühmt      | famoso/-a     |
+| faszinierend | fascinante    |
+| groß         | grande        |
+| hoch         | alto/-a       |
+| isoliert     | aislado/-a    |
+| lang         | largo/-a      |
+| mysteriös    | misterioso/-a |
+| schön        | hermoso/-a    |
+| spektakulär  | espectacular  |
+| wild         | salvaje       |
+
 
 
 # Bewertungen
@@ -148,9 +163,19 @@ estar + Familienstand
 
 ## Stammbaum
 
+| Deutsch                             | Spanisch                               |
+| ----------------------------------- | -------------------------------------- |
+| Mutter / Vater / Eltern             | la madre / el padre / los padres       |
+| Schwester / Bruder /Geschwister     | la hermana / el hermano / los hermanos |
+| Tochter / Sohn / Kinder             | la hija / el hijo / los hijos          |
+| Großmutter / Großvater / Großeltern | la abuela / el abuelo / los abuelos    |
+| Tante / Onkel                       | la tía / el tío                        |
+| Cousine / Cousin                    | la prima / el primo                    |
+| Nichte / Neffe                      | la sobrina / el sobrino                |
 
 
-# Fragewörter
+
+# Fragen
 
 - Cómo = Wie
 - Cuál = Was/Welcher
@@ -159,6 +184,22 @@ estar + Familienstand
 - Por qué = Warum
 - Qué = Was
 - Quién = Wer 
+
+### Fragepronomen qué, cuál
+
+- Dinge in einer Gruppe identifizieren:
+
+  - Qué + Substantiv 
+    z.B. ¿Qué lenguas se hablan en Bolivia?
+  - Cuál/Cuáles + Verb 
+    z.B. ¿Cuál es la moneda de Bolivia?
+
+- Nach Dingen/Definitionen fragen:
+
+  - Qué + Verb
+    z.B. ¿Qué es el quechua?
+
+  
 
 # Grammatik Allerlei
 
@@ -169,7 +210,14 @@ estar + Familienstand
 - Vorangestellt nur falls man Eigenschaft besonders hervorheben will
   z.B. La *triste* chicha es su hermana. = Hervorheben der *Traurigkeit*
          La chicha *triste* es su hermana. = Unterscheiden zwischen mehreren Personen.
-- Adjektive fü® Farbe, Form, Nationalität, Zustand **immer** nachgestellt.
+- Adjektive für Farbe, Form, Nationalität, Zustand **immer** nachgestellt.
+
+##### Änderung maskuline Form
+
+- Substantiv + Adjektiv -> bueno/malo/grande/primero/tercero
+  z.B. Tiene un ambiente **bueno**
+- Adjektiv + Substantiv -> männlich **verliert -o/-e** buen/mal/gran/primer/tercer
+  z.B. Tiene **buen** ambiente
 
 ## Artikel
 
@@ -217,22 +265,30 @@ z.B. ¿Cómo **se pronuncia** la "uve"?
 
 = an, auf, im, in, nach, um, zu, bis, pro, mit
 
-- genaue Richtung/genaues Ziel: z.B. Estudio español para viajar **a** Latinoamérica. (= Ich lerne Spanisch um **nach** Lateinamerika zu reisen.)
+- genaue Richtung/genaues Ziel
+  z.B. Estudio español para viajar **a** Latinoamérica. (= Ich lerne Spanisch um **nach** Lateinamerika zu reisen.)
   -> genauer Plan wo es hin gehen soll
 
 ##### Para
 
-- Zweck oder Absicht: z.B. Estudio español **para** trabajar en España. (=Ich lerne Spanisch, **um** in Spanien zu arbeiten.)
+- Zweck oder Absicht 
+  z.B. Estudio español **para** trabajar en España. (=Ich lerne Spanisch, **um** in Spanien zu arbeiten.)
 - Termin/Fristangaben (=für): z.B. Quiero una habitación **para** tres días. (=Ich möchte ein Zimmer **für** drei Tage.)
-- Standpunkt (=für, nach Ansicht von): z.B. **Para** mí, esto no es grave. (=**Für** mich ist das nicht schlimm.)
+- Standpunkt (=für, nach Ansicht von)
+  z.B. **Para** mí, esto no es grave. (=**Für** mich ist das nicht schlimm.)
 
 ##### Por
 
-* ungefähre Ortsangaben: z.B. Esto está **por** aquí. (= Das ist hier in der Nähe.)
-  ugnefähre Zeitangaben: z.B. Desayuno **por** la mañana. (= Ich frühstücke morgens.)
-* Angabe eines Grundes: z.B. Estudio español **por** mi trabajo. (=Ich lerne Spanisch **für** meine Arbeit.)
-* Kommunikations-/Transportmittel (=per/mit): z.B. Te llamo **por** teléfono. (=Ich rufe dich **per** Telefon an.)
-* Häufigkeit, Geschwindigkeit (=pro, in): z.B. Tres veces **por** la semana. / 60 kilómetros por hora (= Drei mal **pro** Woche / 60 Kilometer **pro** Stunde)
+* ungefähre Ortsangaben
+  z.B. Esto está **por** aquí. (= Das ist hier in der Nähe.)
+* ugnefähre Zeitangaben
+  z.B. Desayuno **por** la mañana. (= Ich frühstücke morgens.)
+* Angabe eines Grundes
+  z.B. Estudio español **por** mi trabajo. (=Ich lerne Spanisch **für** meine Arbeit.)
+* Kommunikations-/Transportmittel (=per/mit)
+  z.B. Te llamo **por** teléfono. (=Ich rufe dich **per** Telefon an.)
+* Häufigkeit, Geschwindigkeit (=pro, in)
+  z.B. Tres veces **por** la semana. / 60 kilómetros por hora (= Drei mal **pro** Woche / 60 Kilometer **pro** Stunde)
 
 ##### ¿Por qué? und porque
 
@@ -319,6 +375,26 @@ z.B. ¿Cómo **se pronuncia** la "uve"?
 4. ...
 5. y por último / al final = Zuletzt
 
+# Interessen und Vorlieben
+
+Subjektpronomen + *gustar*
+
+| (optional)                                                   | Subjektpronomen                              | Verb                          | Subjekt                                                      |
+| ------------------------------------------------------------ | -------------------------------------------- | ----------------------------- | ------------------------------------------------------------ |
+| (A mí)<br />(A ti)<br />(A él/ella/usted)<br />(A nosostros/-as)<br />(A vosotros/-as)<br />(A ellos/ellas/usteds) | me<br />te<br />le<br />nos<br />os<br />les | gusta<br /><br /><br />gustan | Singular (z.B. mi novio)<br />einzelne Objekte (z.B. **la** naturaleza)<br /><br />Plural (z.B. mis amigos)<br />mehrere Objekte (z.B. **la** naturaleza **y el** deporte) |
+
+
+
+|      |                   |
+| ---- | ----------------- |
+| ++++ | Me encanta        |
+| +++  | Me gusta mucho    |
+| ++   | Me gusta bastante |
+| +    | Me gusta          |
+| -    | No me gusta mucho |
+| --   | No me gusta       |
+| ---  | No me gusta nada  |
+
 # Länder, Nationalitäten
 
 - Endung auf Konsonant: *+a* für feminine Form
@@ -338,9 +414,33 @@ z.B. ¿Cómo **se pronuncia** la "uve"?
 | Spanien        | España         | español / española     |
 | USA            | Estados Unidos | estadounidense         |
 
+# Lage (Kompass)
+
+- Wo ist ... = ¿Dónde está ...?
+- ... ist in ... = ... está en...
+
+| Deutsch         | Spanisch         |
+| --------------- | ---------------- |
+| im Norden (von) | en el norte (de) |
+| im Süden (von)  | en el sur (de)   |
+| im Westen (von) | en el oeste (de) |
+| im Osten (von)  | el el este (de)  |
 
 
-# Uhrzeit, Tageszeit
+
+# Mengenangaben
+
+- Quantität, Intensität von *Substantiven*:
+  mucho/-a/-os/-as, poco/-a/-os/-as, demasiado/-a/-os/-as, bastante/-s + Substantiv
+  **!** Genus + Numerus an Bezugswort **anpassen**
+  z.B. Hay **poca** vida cultural.
+         Hay **mucha** niebla.
+- Bedeutung von *Verben* ändern
+  mucho, un poco, bastante, nada
+  **!** Genus + Numerus **unverändert**
+  z.B. Me gusta mucho.
+
+# Uhrzeit, Tageszeit, Jahreszeit
 
 ## Uhrzeiten
 
@@ -370,7 +470,7 @@ z.B. ¿Cómo **se pronuncia** la "uve"?
 ## Tageszeiten
 
 - Für zeitliche Einordnung von Handlungen 
-- z.B. abends treffe ich mich mit Freunden = por la noche queda con amigos
+  z.B. abends treffe ich mich mit Freunden = por la noche queda con amigos
 
 | Deutsch     | Spanisch      |
 | ----------- | ------------- |
@@ -378,6 +478,17 @@ z.B. ¿Cómo **se pronuncia** la "uve"?
 | mittags     | a/al mediodía |
 | nachmittags | por la tarte  |
 | abends      | por la noche  |
+
+## Jahreszeiten
+
+= las estactiones
+
+| Jahreszeit | estaction    |
+| ---------- | ------------ |
+| Frühling   | la primavera |
+| Sommer     | el verano    |
+| Herbst     | el otoño     |
+| Winter     | el invierno  |
 
 
 
@@ -504,75 +615,122 @@ z.B. ¿Cómo **se pronuncia** la "uve"?
 | Vosotros/-as        | sois  |
 | Ellos/Ellas/Ustedes | son   |
 
-### 
+# Vergleiche
+
+##### Mehr/weninger
+
+- más/menos + *Adjektiv/Substantiv/Adverb* + que
+  z.B. San Sebastián es más sostenible que D.F.
+         San Sebastián hay menos contaminación que D.F.
+
+-  Verb + más/menos + que
+  z.B. En la ciudad la gente se estresa más que en el pueblo.
+
+- **!** Sonderformen:
+
+  Más pequeño -> menor
+  ~~Más bueno/-a~~ -> mejor
+  ~~Más malo/-a~~ -> peor
+  ~~Más grande~~ -> mayor
+
+##### Gleich 
+
+- tan + *Adjektiv/Adverb* + como
+  z.B. Maria es tan simpatica como Teresa.
+- tantos + *Substantiv* + como
+  z.B. Pedro lee tantos libros como Miguel.
+
+# Vorhandensein ausdrücken
+
+- ... haben ... = ... tener ...
+  ... hat ...       = ... tiene  ...
+  z.B. Ecuador **tiene** ríos.
+
+- Hay + Substantiv 
+  **!** Im Plural ohne Artikel
+
+  = In ... gibt es ... = En ... hay ...
+  z.B. **En** Ecuador **hay** ríos.
+
+# Wetter
+
+| Deutsch                    | Spanisch         |
+| -------------------------- | ---------------- |
+| Es ist heiß 🥵              | Hace calor       |
+| Es ist kalt 🥶              | Hace frío        |
+| Es ist sonnig ☀️            | Hace sol         |
+| Es ist windig 🌬            | Hace viento      |
+| Es hat schönes Wetter ☀️    | Hace buen tiempo |
+| Es hat schlechtes Wetter 🌧 | Hace mal tiempo  |
+| Es regnet 🌧                | Llueve           |
+| Es schneit ❄️               | Nieva            |
+| Es ist neblig 🌫            | Hay niebla       |
+| Es gewittert ⛈             | Hay tormenta     |
+| Es ist bewölkt ☁️           | Está nublado     |
+| Es ist klar ☀️              | Está despejado   |
+
+
 
 # Zahlen
-|      | Spanisch            |
-| :--- | ------------------- |
-| 0    | cero                |
-| 1    | uno                 |
-| 2    | dos                 |
-| 3    | tres                |
-| 4    | cuatro              |
-| 5    | cinco               |
-| 6    | seis                |
-| 7    | siete               |
-| 8    | ocho                |
-| 9    | nueve               |
-| 10   | diez                |
-| 11   | once                |
-| 12   | doce                |
-| 13   | trece               |
-| 14   | catorce             |
-| 15   | quince              |
-| 16   | dieciséis           |
-| 17   | diecisiete          |
-| 18   | dieciocho           |
-| 19   | diecinueve          |
-| 20   | veinte              |
-| 21   | veintiuno           |
-| 22   | veintidos           |
-| 23   | veintitres          |
-| 24   | veinticuatro        |
-| 30   | treinta             |
-| 31   | treinta y un/-o/-a  |
-| 40   | cuarenta            |
-| 41   | cuarenta y un/-o/-a |
-| 50   | cincuenta           |
-| 60   | sesenta             |
-| 70   | setenta             |
-| 80   | ochenta             |
-| 90   | noventa             |
-| 100  | cien                |
-|      |                     |
-|      |                     |
-|      |                     |
-|      |                     |
-|      |                     |
-|      |                     |
-|      |                     |
-|      |                     |
-|      |                     |
-|      |                     |
-|      |                     |
-|      |                     |
-|      |                     |
-|      |                     |
-|      |                     |
-|      |                     |
-|      |                     |
-|      |                     |
-|      |                     |
-|      |                     |
-|      |                     |
-|      |                     |
-|      |                     |
-|      |                     |
-|      |                     |
-|      |                     |
-|      |                     |
-|      |                     |
-|      |                     |
+|           | Spanisch            |
+| :-------- | ------------------- |
+| 0         | cero                |
+| 1         | uno                 |
+| 2         | dos                 |
+| 3         | tres                |
+| 4         | cuatro              |
+| 5         | cinco               |
+| 6         | seis                |
+| 7         | siete               |
+| 8         | ocho                |
+| 9         | nueve               |
+| 10        | diez                |
+| 11        | once                |
+| 12        | doce                |
+| 13        | trece               |
+| 14        | catorce             |
+| 15        | quince              |
+| 16        | dieciséis           |
+| 17        | diecisiete          |
+| 18        | dieciocho           |
+| 19        | diecinueve          |
+| 20        | veinte              |
+| 21        | veintiuno           |
+| 22        | veintidos           |
+| 23        | veintitres          |
+| 24        | veinticuatro        |
+| 30        | treinta             |
+| 31        | treinta y un/-o/-a  |
+| 40        | cuarenta            |
+| 41        | cuarenta y un/-o/-a |
+| 50        | cincuenta           |
+| 60        | sesenta             |
+| 70        | setenta             |
+| 80        | ochenta             |
+| 90        | noventa             |
+| 100       | cien                |
+| 101       | ciento uno          |
+| 200       | doscientos/-as      |
+| 300       | trescientos/-as     |
+| 400       | cuatrocientos/-as   |
+| 500       | quinientos/-as      |
+| 600       | seiscientos/-as     |
+| 700       | setecientos/-as     |
+| 800       | ochocientos/-as     |
+| 900       | novecientos/-as     |
+| 1 000     | mil                 |
+| 1 001     | mil uno             |
+| 2 000     | dos mil             |
+| 3 000     | tres mil            |
+| 4 000     | cuatro mil          |
+| 5 000     | cinco mil           |
+| 6 000     | seis mil            |
+| 7 000     | siete mil           |
+| 8 000     | ocho mil            |
+| 9 000     | nueve mil           |
+| 10 000    | diez mil            |
+| 100 000   | cien mil            |
+| 1 000 000 | un millón           |
 
 
 
