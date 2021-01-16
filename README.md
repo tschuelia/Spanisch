@@ -40,8 +40,10 @@
 # Berufe
 
 - ser + Beruf (= ich bin ...)
-
 - trabajar como/de + Beruf (= ich arbeite als ...)
+- Endung *-o* -> Ersetzten durch *-a* für feminine Form
+- Endung *-or* -> *+a* für feminine Form
+- Endung *-nte, -ista* -> unverändert
 
 | Deutsch          | Spanisch       |
 | ---------------- | -------------- |
@@ -158,9 +160,170 @@ estar + Familienstand
 - Qué = Was
 - Quién = Wer 
 
+# Grammatik Allerlei
 
+## Adjektive
+
+- i.d.R. nachgestellt 
+  z.B. Mi amiga Lisa es una persona *inteligente*
+- Vorangestellt nur falls man Eigenschaft besonders hervorheben will
+  z.B. La *triste* chicha es su hermana. = Hervorheben der *Traurigkeit*
+         La chicha *triste* es su hermana. = Unterscheiden zwischen mehreren Personen.
+- Adjektive fü® Farbe, Form, Nationalität, Zustand **immer** nachgestellt.
+
+## Artikel
+
+- el/la/los/las: für Konkretes
+- un/una/unos/unas: für Unbestimmtes
+
+## Demonstativpronomen
+
+- vor dem Subtantiv z.B. **Este** libro es muy interesante.
+
+- getrennt vom Substantiv z.B. **Este** es un libro muy interesante.
+
+  
+
+|          | maskulin | feminin | neutral (für Gegenstände) |
+| -------- | -------- | ------- | ------------------------- |
+| Singular | este     | esta    | esto                      |
+| Plural   | estos    | estas   |                           |
+
+
+
+## Deutsches "man"
+
+se + 3. Person
+
+z.B. ¿Cómo **se pronuncia** la "uve"?
+
+
+
+## Genus und Numerus
+
+| Genus            | Endungen                                                     | Singular                                                     | Plural                                                       |
+| ---------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| maskulin         | *-o*: meistens *maskulin*<br/>**!** Ausnahmen: la foto, la mano<br /><br />*-aje, -or, -ón, -ema, -oma, -ama*: in der Regel *maskulin*<br /><br />Wochentage<br />Zahlen | el diálog**o**<br />el vi**aje**<br />el col**or**<br />el cora**zón**<br />el probl**ema**<br />el idi**oma**<br />el progr**ama** | los diálogo**s**<br />los viaj**es**<br />los color**es**<br />los corazon**es**<br />los problema**s**<br />los idioma**s**<br />los programa**s** |
+| feminin          | *-a*: meistens *feminin*<br/>**!** Ausnahmen: el día, el sofá, el mapa<br /><br />*-dad, -ción, -sión*: immer *feminin*<br /><br />Buchstaben<br />Uhrzeiten | la list**a**<br />la nacionali**dad**<br />la can**ción**<br />la deci**sión** | las lista**s**<br />las nacionalidad**es**<br />las cancion**es**<br />las decision**es** |
+| maskulin/feminin | *-e, -ista*: keine Regel, beides möglich                     | el tomat**e**<br />la noch**e**<br />el/la estudiant**e**    | los tomate**s**<br />las noche**s**<br />los/las estudiante**s** |
+
+- Endung auf -s -> Plural unverändert (el lunes -> los lunes)
+- Endung auf -z -> Plural mit -ces (la nariz -> las narices)
+- Substantive die auf *Konsonant* enden mit Akzent auf letzter Silbe -> Plural kein Akzent (la canci**ó**n -> las canci**o**nes)
+
+## Präpositionen
+
+##### A la / Al 
+
+= an, auf, im, in, nach, um, zu, bis, pro, mit
+
+- genaue Richtung/genaues Ziel: z.B. Estudio español para viajar **a** Latinoamérica. (= Ich lerne Spanisch um **nach** Lateinamerika zu reisen.)
+  -> genauer Plan wo es hin gehen soll
+
+##### Para
+
+- Zweck oder Absicht: z.B. Estudio español **para** trabajar en España. (=Ich lerne Spanisch, **um** in Spanien zu arbeiten.)
+- Termin/Fristangaben (=für): z.B. Quiero una habitación **para** tres días. (=Ich möchte ein Zimmer **für** drei Tage.)
+- Standpunkt (=für, nach Ansicht von): z.B. **Para** mí, esto no es grave. (=**Für** mich ist das nicht schlimm.)
+
+##### Por
+
+* ungefähre Ortsangaben: z.B. Esto está **por** aquí. (= Das ist hier in der Nähe.)
+  ugnefähre Zeitangaben: z.B. Desayuno **por** la mañana. (= Ich frühstücke morgens.)
+* Angabe eines Grundes: z.B. Estudio español **por** mi trabajo. (=Ich lerne Spanisch **für** meine Arbeit.)
+* Kommunikations-/Transportmittel (=per/mit): z.B. Te llamo **por** teléfono. (=Ich rufe dich **per** Telefon an.)
+* Häufigkeit, Geschwindigkeit (=pro, in): z.B. Tres veces **por** la semana. / 60 kilómetros por hora (= Drei mal **pro** Woche / 60 Kilometer **pro** Stunde)
+
+##### ¿Por qué? und porque
+
+- ¿Por qué? = Warum = Frage
+- porque = weil = Begründung
+
+
+
+## Possesivpronomen
+
+#### Vor dem Substantiv
+
+- Poss.pron + Substantiv 
+- Numerus + Genus angepasst an Objekt von dem man spricht
+  z.B. Mi tío / Mis tíos
+
+|              | Singular           | Plural              |                         |
+| ------------ | ------------------ | ------------------- | ----------------------- |
+| yo           | mi ( + Substantiv) | mis ( + Substantiv) | mein, meine             |
+| tú           | tu                 | tus                 | dein, deine             |
+| él/ella      | su                 | sus                 | sein, seine / ihr, ihre |
+| usted        | su                 | sus                 | Ihr, Ihre               |
+| nosotros/-as | nuestro/-a         | nuestros/-as        | unser, unsere           |
+| vosotros/-as | vuestro/-a         | vuestros/-as        | euer, eure              |
+| ellos/ellas  | su                 | sus                 | ihr, ihre               |
+| ustedes      | su                 | sus                 | Ihr, Ihre               |
+
+#### Nach dem Substantiv
+
+- angleichen wie bei Adjektiven
+
+|               | Singular             |                       | Plural                   |                          |
+| ------------- | -------------------- | --------------------- | ------------------------ | ------------------------ |
+|               | maskulin             | feminin               | maskulin                 | feminin                  |
+| yo            | un amigo **mío**     | una amiga **mía**     | unos amigos **míos**     | unas amigas **mías**     |
+| tú            | un amigo **tuyo**    | una amiga **tuya**    | unos amigos **tuyos**    | unas amigas **tuyas**    |
+| él/ella/usted | un amigo **suyo**    | una amiga **suya**    | unos amigos **suyos**    | unas amigas **suyas**    |
+| nosotros/-as  | un amigo **nuestro** | una amiga **nuestra** | unos amigos **nuestros** | unas amigas **nuestras** |
+| vosotros/-as  | un amigo **vuestro** | una amiga **vuestra** | unos amigos **vuestros** | unas amigas **vuestras** |
+| ellos/ellas   | un amigo **suyo**    | una amiga **suya**    | unos amigos **suyos**    | unas amigas **suyas**    |
+
+
+
+## Und, Oder
+
+- Und = y 
+           = e falls nachfolgendes Wort mit i- oder hi- anfängt
+- Oder = o
+            = u falls nachfolgendes Wort mit o- oder ho- anfängt 
+
+
+
+# Häufigkeiten
+
+| Deutsch                        | Spanisch                                |
+| ------------------------------ | --------------------------------------- |
+| immer                          | siempre                                 |
+| fast immer                     | casi siempre                            |
+| sehr oft                       | a menudo                                |
+| jeden ... (z.B. Montag)        | todos los ... (z.B. lunes)              |
+| n mal pro Woche / Monat / Jahr | n veces por la semana / al mes / al año |
+| manchmal                       | a veces                                 |
+| alle n Tage                    | cada n días                             |
+| fast nie                       | casi nunca                              |
+| nine                           | nunca                                   |
+
+### Verneinung:
+
+- mit no: **immer** vor dem Verb 
+
+- mit nunca (nie), nadie (niemand), nada (nichts), jamás (nie), tampoco (auch nicht)
+  für alle gilt: 
+  - Nunca nach dem Verb -> No vor das Verb: **No** + Verb + ... + **nunca** 
+  - Nunca vor dem Verb: **Nunca** + Verb _ ...
+
+### Zeitliche Abfolge
+
+- antes de / después de + *Infinitiv* 
+  **!** Bei reflexiven Verben: Pronomen angleichen, z.B. **Yo** leo antes de acostar**me**
+
+1. primero = Zuerst
+2. después = Danach
+3. luego = Dann
+4. ...
+5. y por último / al final = Zuletzt
 
 # Länder, Nationalitäten
+
+- Endung auf Konsonant: *+a* für feminine Form
+- Endung auf *-o*: Ersetzen durch *-a* für feminine Form
+- Endung auf *-a, -e, -i*: unverändert für feminine Form
 
 |                | Land           | Nationalität           |
 | -------------- | -------------- | ---------------------- |
@@ -177,38 +340,37 @@ estar + Familienstand
 
 
 
-# Grammatik Allerlei
-
-## Präpositionen
-
-##### A la / Al 
-
-= an, auf, im, in, nach, um, zu, bis, pro, mit
-
-- genaue Richtung/genaues Ziel: z.B. Estudio español para viajar **a** Latinoamérica.
-  -> genauer Plan wo es hin gehen soll
-
-##### Por
-
-* ungefähre Ortsangaben: z.B. Estudio español para viajar **por** Latinoamérica.
-  -> ich weiß noch nicht wohin genau
-
-## Possesivbegleiter
-
-| Singular   | Plural       |
-| ---------- | ------------ |
-| mi         | mis          |
-| tu         | tus          |
-| su         | sus          |
-| nuestro/-a | nuestros/-as |
-| vuestro/-a | vuestros/-as |
-| su         | sus          |
-
 # Uhrzeit, Tageszeit
 
 ## Uhrzeiten
 
+| Deutsch          | Spanisch                     |                                     |
+| ---------------- | ---------------------------- | ----------------------------------- |
+| 1 Uhr            | **Es la** una                | Bei 1 Uhr: Einzahl                  |
+| 2 ... 12 Uhr     | **Son las** dos ... doce     | Ab 2 Uhr: Mehrzahl                  |
+| Viertel nach ... | ... y cuarto/quince          |                                     |
+| Halb 3           | **Las dos** y media          | "Halb i" wird zu "i + 1 minus halb" |
+| Viertel vor 3    | Las tres menos cuarto/quince |                                     |
+
+<img src="./figures/uhr.png" style="zoom:40%;" />
+
+- Angabe der Uhrzeit immer mit Tageszeit:
+  ... Uhr ...
+
+| Deutsch       | Spanisch        | Beispiel                         |
+| ------------- | --------------- | -------------------------------- |
+| früh morgends | de la madrugada | A las dos de la madrugada        |
+| morgens       | de la mañana    | A las cinco y media de la mañana |
+| mittags       | del mediodía    | A las doce del mediodía          |
+| nachmittags   | de la tarte     | A las cuatro de la tarde         |
+| abends/nachts | de la noche     | A las nueve de la noche          |
+
+
+
 ## Tageszeiten
+
+- Für zeitliche Einordnung von Handlungen 
+- z.B. abends treffe ich mich mit Freunden = por la noche queda con amigos
 
 | Deutsch     | Spanisch      |
 | ----------- | ------------- |
@@ -234,31 +396,77 @@ estar + Familienstand
 
 ## Regelmäßige Verben: 
 
-|                     | -ar (z.B. estudiar)    | -er (z.B. aprender) | -ir (z.B. vivir) |
-| ------------------- | ---------------------- | ------------------- | ---------------- |
-| Yo                  | -o (estudio)           | -o (aprendo)        | -o (vivo)        |
-| Tú                  | -as (estudias)         | -es (aprendes)      | -es (vives)      |
-| Él/Ella/Usted       | -a (estudia)           | -e (aprende)        | -e (vive)        |
-| Nosotros/-as        | -amos (estudiamos)     | -emos (aprendemos)  | -imos (vivimos)  |
-| Vosotros/-as        | -áis (estudiáis)       | -éis (aprendéis)    | -ís (vivís)      |
-| Ellos/Ellas/Ustedes | -an (estudian)         | -en (aprenden)      | -en (viven)      |
-| Verben              | estudiar<br />trabajar | aprender<br />      | vivir<br />      |
+|                     | -ar (z.B. estudiar)                                          | -er (z.B. aprender)                 | -ir (z.B. vivir)          |
+| ------------------- | ------------------------------------------------------------ | ----------------------------------- | ------------------------- |
+| Yo                  | -o (estudio)                                                 | -o (aprendo)                        | -o (vivo)                 |
+| Tú                  | -as (estudias)                                               | -es (aprendes)                      | -es (vives)               |
+| Él/Ella/Usted       | -a (estudia)                                                 | -e (aprende)                        | -e (vive)                 |
+| Nosotros/-as        | -amos (estudiamos)                                           | -emos (aprendemos)                  | -imos (vivimos)           |
+| Vosotros/-as        | -áis (estudiáis)                                             | -éis (aprendéis)                    | -ís (vivís)               |
+| Ellos/Ellas/Ustedes | -an (estudian)                                               | -en (aprenden)                      | -en (viven)               |
+| Verben              | cocinar<br />estudiar<br />llamarse<br />trabajar<br />quedar | aprender<br />hacer<br />leer<br /> | escribir<br />vivir<br /> |
+
+## Reflexive Verben
+
+|                     | Reflexivpronomen + Verbform                                  | Beispiel levantarse |
+| ------------------- | ------------------------------------------------------------ | ------------------- |
+| Yo                  | **me** + Verbform                                            | me levanto          |
+| Tú                  | **te** + Verbform                                            | te levantas         |
+| Él/Ella/Usted       | **se** + Verbform                                            | se levanta          |
+| Nosotros/-as        | **nos** + Verbform                                           | nos levantamos      |
+| Vosotros/-as        | **os** + Verbform                                            | os levantáis        |
+| Ellos/Ellas/Ustedes | **se** + Verbform                                            | se levantan         |
+| Notiz               | Verb wird normal konjugiert                                  |                     |
+| Veben               | acostarse<br />despertarse<br />llamarse<br />levantarse<br />quedarse |                     |
+
+
 
 ## Unregelmäßige Verben:
 
 ### Verben mit Vokalwechsel:
 
-|                     | e -> i (z.B. pedir)                 | o -> ues (z.B. almorzar)          | e -> ie (z.B. empezar)                |
-| ------------------- | ----------------------------------- | --------------------------------- | ------------------------------------- |
-| Yo                  | p**i**do                            | alm**ue**rzo                      | emp**ie**zo                           |
-| Tú                  | p**i**des                           | alm**ue**rzas                     | emp**ie**zas                          |
-| Él/Ella/Usted       | p**i**de                            | alm**ue**rza                      | emp**ie**za                           |
-| Nosotros/-as        | pedimoms                            | almorzamos                        | empezamos                             |
-| Vosotros/-as        | pedís                               | almorzáis                         | empezáis                              |
-| Ellos/Ellas/Ustedes | p**i**den                           | alm**ue**rzan                     | emp**ie**zan                          |
-| Verben              | seguir<br />vestirse (me visto,...) | acostarse<br />dormir<br />volver | despertarse<br />preferir<br />querer |
+|                     | e -> i (z.B. pedir)                            | e -> ie (z.B. empezar)                                       | o -> ue (z.B. almorzar)                         | u -> ue (z.B. jugar)           |
+| ------------------- | ---------------------------------------------- | ------------------------------------------------------------ | ----------------------------------------------- | ------------------------------ |
+| Yo                  | p**i**do                                       | emp**ie**zo                                                  | alm**ue**rzo                                    | j**ue**go                      |
+| Tú                  | p**i**des                                      | emp**ie**zas                                                 | alm**ue**rzas                                   | j**ue**gas                     |
+| Él/Ella/Usted       | p**i**de                                       | emp**ie**za                                                  | alm**ue**rza                                    | j**ue**ga                      |
+| Nosotros/-as        | pedimoms                                       | empezamos                                                    | almorzamos                                      | jugamos                        |
+| Vosotros/-as        | pedís                                          | empezáis                                                     | almorzáis                                       | jugáis                         |
+| Ellos/Ellas/Ustedes | p**i**den                                      | emp**ie**zan                                                 | alm**ue**rzan                                   | j**ue**gan                     |
+| Notiz               | "Wir", "Ihr" bleibt regelmäßig                 | "Wir", "Ihr" bleibt regelmäßig                               | "Wir", "Ihr" bleibt regelmäßig                  | "Wir", "Ihr" bleibt regelmäßig |
+| Verben              | pedir<br />seguir<br />vestirse (me visto,...) | despertarse<br />empezar<br />pensar<br />preferir<br />querer | acostarse<br />almorzar<br />dormir<br />volver | jugar<br />                    |
+
+### Verben mit unregelmäßigem yo:
+
+|                     | c -> zco (z.B conocer) | -> é (z.B. saber) | -> eo (z.B. ver) | -> go (z.B.) hacer                     | -> oy (z.B. dar) |
+| ------------------- | ---------------------- | ----------------- | ---------------- | -------------------------------------- | ---------------- |
+| Yo                  | cono**zco**            | s**é**            | v**eo**          | ha**go**                               | d**oy**          |
+| Tú                  | conoces                | sabes             | ves              | haces                                  | das              |
+| Él/Ella/Usted       | conoce                 | sabe              | ve               | hace                                   | da               |
+| Nosotros/-as        | conocemos              | sabemos           | vemos            | hacemos                                | damos            |
+| Vosotros/-as        | conocéis               | sabéis            | veis             | hacéis                                 | dais             |
+| Ellos/Ellas/Ustedes | conocen                | saben             | ven              | hacen                                  | dan              |
+| Verben              | conocer                | saber<br />       | ver<br />        | hacer<br />poner<br />salir<br />tener | dar<br />ir      |
+
+
+
+## Ser vs. estar:
+
+
 
 ### estar: 
+
+~ vorübergehende Zustände
+
+- Örtliches Befinden 
+  z.B. La fábrica **está** en Lima.
+- persönliches Befinden 
+  z.B. Yo **estoy** cansado.
+- Famileinstand 
+  z.B. Yo **estoy** casado.
+  **!** Ausnahme: verwitwet
+- Bewertung konkreter Speisen 
+  z.B. Esta sopa **está** muy salada.
 
 |                     | estar   |
 | ------------------- | ------- |
@@ -269,18 +477,23 @@ estar + Familienstand
 | Vosotros/-as        | estáis  |
 | Ellos/Ellas/Ustedes | están   |
 
-### llamarse
+### ser:
 
-|                     | llamarse     |
-| ------------------- | ------------ |
-| Yo                  | me llamo     |
-| Tú                  | te llamas    |
-| Él/Ella/Usted       | se llama     |
-| Nosotros/-as        | nos llamamos |
-| Vosotros/-as        | os llamáis   |
-| Ellos/Ellas/Ustedes | se llaman    |
+~ dauerhafte Zustände
 
-### ser
+- Identifizieren, Definieren 
+  z.B. Goya **es** un pintor famoso.
+         Madrid **es** la capital de España.
+- Name, Herkunft, Beruf, Aussehen, Charakter
+  z.B. Este hote **es** bien grande.
+          Ella **es** muy inteligente.
+- Farbe, Material
+  z.B. Los zappatos **son** negros y de cuero.
+- Datum, Uhrzeit
+  z.B. Hoy **es** lunes.
+         **Son** las tres de la tarde.
+- Besitz
+  z.B Este coche **es** mío.
 
 |                     | ser   |
 | ------------------- | ----- |
@@ -291,16 +504,7 @@ estar + Familienstand
 | Vosotros/-as        | sois  |
 | Ellos/Ellas/Ustedes | son   |
 
-### tener: 
-
-|                     | tener   |
-| ------------------- | ------- |
-| Yo                  | tengo   |
-| Tú                  | tienes  |
-| Él/Ella/Usted       | tiene   |
-| Nosotros/-as        | tenemos |
-| Vosotros/-as        | tenéis  |
-| Ellos/Ellas/Ustedes | tienen  |
+### 
 
 # Zahlen
 |      | Spanisch            |
@@ -383,4 +587,12 @@ estar + Familienstand
 | /    | barra      |
 | -    | guion      |
 | _    | guion baja |
+
+### Rechenzeichen
+
+|      | Spanisch |
+| ---- | -------- |
+| +    | más      |
+| -    | menos    |
+| =    | son      |
 
