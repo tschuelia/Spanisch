@@ -1000,3 +1000,43 @@ ab 11: Grundzahlen
 | -    | menos    |
 | =    | son      |
 
+# Zeiten
+
+## Perfekt (Pretérito perfecto)
+
+*haber* + Partizip
+
+|                     | haber  |
+| ------------------- | ------ |
+| Yo                  | he     |
+| Tú                  | has    |
+| Él/Ella/Usted       | ha     |
+| Nosotros/-as        | hemos  |
+| Vosotros/-as        | habéis |
+| Ellos/Ellas/Ustedes | han    |
+
+### Partizip
+
+##### regelmäßig
+
+| Infinitiv | -ar                            | -er                  | -ir                                  |
+| --------- | ------------------------------ | -------------------- | ------------------------------------ |
+| Partizip  | -ado                           | -ido                 | -ido                                 |
+| Verben    | cantar<br />llegar<br />pasear | comer<br />ser<br /> | dormir<br />ir<br />salir<br />vivir |
+
+##### unregelmäßig
+
+| Infinitiv | Partizip    |
+| --------- | ----------- |
+| abrir     | abierto     |
+| decir     | dicho       |
+| descubrir | descubierto |
+| escribir  | escrito     |
+| hacer     | hecho       |
+| resolver  | resuelto    |
+| morir     | muerto      |
+| poner     | puesto      |
+| romper    | roto        |
+| ver       | visto       |
+| volver    | vuelto      |
+
