@@ -37,6 +37,18 @@
 | M         | m mayúscula    |
 | m         | m minúscula    |
 
+## Groß- und Kleinschreibung
+
+groß geschrieben wird:
+
+- am Satzanfang
+- Eigennamen von Personen
+- Städte-, Ländernamen
+- Geographische Angaben
+- Namen von Instituten
+- Studienfächer
+- Anfang eines Buchtitels
+
 # Berufe
 
 - ser + Beruf (= ich bin ...)
@@ -115,18 +127,38 @@ hat ... Augen = tiene los ojos ...
 
 ## Orte
 
-| Deutsch      | Spanisch      |
-| ------------ | ------------- |
-| berühmt      | famoso/-a     |
-| faszinierend | fascinante    |
-| groß         | grande        |
-| hoch         | alto/-a       |
-| isoliert     | aislado/-a    |
-| lang         | largo/-a      |
-| mysteriös    | misterioso/-a |
-| schön        | hermoso/-a    |
-| spektakulär  | espectacular  |
-| wild         | salvaje       |
+| Deutsch      | Spanisch              |
+| ------------ | --------------------- |
+| antik        | antiguo/-a            |
+| bergig       | montañoso/-a          |
+| berühmt      | famoso/-a             |
+| billig       | barato/-a             |
+| chaotisch    | caótico/-a            |
+| fantastisch  | fantástica            |
+| faszinierend | fascinante            |
+| friedlich    | apacible              |
+| gefährlich   | peligroso/-a          |
+| groß         | grande                |
+| hässlich     | feo/-a                |
+| historisch   | histórico/-a          |
+| hoch         | alto/-a               |
+| interessant  | interesante           |
+| isoliert     | aislado/-a            |
+| kalt         | frío/-a               |
+| klein        | pequeño/-a            |
+| lang         | largo/-a              |
+| langweilig   | aburrido/-a           |
+| laut         | ruidoso/-a            |
+| mysteriös    | misterioso/-a         |
+| ruhig        | tranquilo/-a          |
+| sauber       | limpio/-a             |
+| schmutzig    | sucio/-a              |
+| schön        | bonito/-a, hermoso/-a |
+| spektakulär  | espectacular          |
+| teuer        | caro/-a               |
+| touristisch  | turístico/-a          |
+| warm         | cálido/-a             |
+| wild         | salvaje               |
 
 
 
@@ -259,6 +291,23 @@ z.B. ¿Cómo **se pronuncia** la "uve"?
 - Endung auf -z -> Plural mit -ces (la nariz -> las narices)
 - Substantive die auf *Konsonant* enden mit Akzent auf letzter Silbe -> Plural kein Akzent (la canci**ó**n -> las canci**o**nes)
 
+
+
+## Indefinitbegleiter
+
+- Verb + algún/alguno/alguna/algunos/algunas + Substantiv
+  z.B. ¿Hay algún café cerca de aquí?
+
+- No + Verb + ningún/ninguno/ninguna/ningunos/ningunas + Substantiv
+  z.B. No hay ningún café.
+
+-> Bei Antworten kann Substantiv wegfallen 
+    z.B. No hay ninguno.
+
+
+
+
+
 ## Präpositionen
 
 ##### A la / Al 
@@ -330,6 +379,20 @@ z.B. ¿Cómo **se pronuncia** la "uve"?
 | vosotros/-as  | un amigo **vuestro** | una amiga **vuestra** | unos amigos **vuestros** | unas amigas **vuestras** |
 | ellos/ellas   | un amigo **suyo**    | una amiga **suya**    | unos amigos **suyos**    | unas amigas **suyas**    |
 
+## Superlativ
+
+##### relativer Superlativ: 
+
+Artikel + (Substantiv) + *más* + Adjektiv
+
+z.B. El pico *más* alto de América Latina se llama Cerro Aconcagua.
+
+##### absoluter Superlativ:
+
+Artikel + (Substaniv) + Adjektiv + *+ísimo/-a*
+
+z.B. El Aconcagua es alt*ísimo*.
+
 
 
 ## Und, Oder
@@ -379,7 +442,7 @@ z.B. ¿Cómo **se pronuncia** la "uve"?
 
 Subjektpronomen + *gustar*
 
-| (optional)                                                   | Subjektpronomen                              | Verb                          | Subjekt                                                      |
+| optional (Betonung der Person)                               | Subjektpronomen                              | Verb                          | Subjekt                                                      |
 | ------------------------------------------------------------ | -------------------------------------------- | ----------------------------- | ------------------------------------------------------------ |
 | (A mí)<br />(A ti)<br />(A él/ella/usted)<br />(A nosostros/-as)<br />(A vosotros/-as)<br />(A ellos/ellas/usteds) | me<br />te<br />le<br />nos<br />os<br />les | gusta<br /><br /><br />gustan | Singular (z.B. mi novio)<br />einzelne Objekte (z.B. **la** naturaleza)<br /><br />Plural (z.B. mis amigos)<br />mehrere Objekte (z.B. **la** naturaleza **y el** deporte) |
 
@@ -431,7 +494,7 @@ Subjektpronomen + *gustar*
 # Mengenangaben
 
 - Quantität, Intensität von *Substantiven*:
-  mucho/-a/-os/-as, poco/-a/-os/-as, demasiado/-a/-os/-as, bastante/-s + Substantiv
+  mucho/-a/-os/-as, poco/-a/-os/-as, demasiado/-a/-os/-as, bastante/s, suficiente/s + Substantiv
   **!** Genus + Numerus an Bezugswort **anpassen**
   z.B. Hay **poca** vida cultural.
          Hay **mucha** niebla.
@@ -439,6 +502,96 @@ Subjektpronomen + *gustar*
   mucho, un poco, bastante, nada
   **!** Genus + Numerus **unverändert**
   z.B. Me gusta mucho.
+
+
+
+# Möglichkeit, Notwendigkeit, Verpflichtung, Wünsche ausdrücken
+
+##### Möglichkeit
+
+= können
+
+- poder + *Infinitiv*
+  z.B. Puedes comer un bocadillo.
+
+##### Notwendigkeit
+
+= um etwas zu tun muss man...
+
+- hay que + *Infinitv*
+  z.B. Hay que *pasar* ters semáforos.
+
+##### Verpflichtung
+
+= müssen
+
+- tener que + *Infinitiv*
+  z.B. Tienes que *limpiar* la casa.
+
+- 
+
+  
+
+##### Wünsche
+
+= wollen
+
+- querer + *Infinitiv*
+  z.B. Quiero comer
+- querer + *Substantiv*
+  z.B. Quiero fruta
+
+# Ortsangaben, Wegbeschreibung
+
+##### Hay
+
+Hay + un/-o/-a/-os/-as / alguno/-a/-os/-as + *Substatntiv*
+z.B. ¿**Hay alguna** *oficina de correos* cerca de aquí?
+
+-> Sprecher weiß nicht ob es den Ort gibt
+
+##### Está
+
+z.B. ¿Sabe si *la biblioteca* **está** cerca de aquí?
+
+-> Beide Gesprächspartner wissen, dass es den Ort gibt
+
+
+
+| Deutsch           | Spanisch          |
+| ----------------- | ----------------- |
+| zwischen          | entre             |
+| seitlich von      | al lado de        |
+| links von         | a la izquierda de |
+| rechts von        | a la derecha de   |
+| vor               | delante de        |
+| hinter            | detrás de         |
+| über              | sobre             |
+| unter             | debajo de         |
+| im                | dentro de         |
+| weit entfernt von | lejos de          |
+| nahe bei          | cerca de          |
+| gegenüber         | enfrente          |
+| hier              | aquí, acá         |
+| da                | ahí               |
+| dort              | allí, allá        |
+
+| Deutsch               | Spanisch                                  |
+| --------------------- | ----------------------------------------- |
+| links/rechts abbiegen | *doblar / girar* a la izquierda / derecha |
+| geradeaus             | *seguir* derecho / todo recto             |
+| die Straße überqueren | cruza la calle                            |
+| an der Ecke           | en la esquina                             |
+| neben...              | al lado de...                             |
+
+### Nach dem Weg fragen
+
+- perdon**e**, oiga = höflich
+  z.B. Oiga, ¿puede decirme si hay un supermercado por aquí?
+- perdon**a**, oye = duzen
+  z.B. Perdona, ¿sabes dónde está la cafetería?
+
+
 
 # Uhrzeit, Tageszeit, Jahreszeit
 
@@ -455,11 +608,10 @@ Subjektpronomen + *gustar*
 <img src="./figures/uhr.png" style="zoom:40%;" />
 
 - Angabe der Uhrzeit immer mit Tageszeit:
-  ... Uhr ...
 
 | Deutsch       | Spanisch        | Beispiel                         |
 | ------------- | --------------- | -------------------------------- |
-| früh morgends | de la madrugada | A las dos de la madrugada        |
+| früh morgens  | de la madrugada | A las dos de la madrugada        |
 | morgens       | de la mañana    | A las cinco y media de la mañana |
 | mittags       | del mediodía    | A las doce del mediodía          |
 | nachmittags   | de la tarte     | A las cuatro de la tarde         |
@@ -515,7 +667,7 @@ Subjektpronomen + *gustar*
 | Nosotros/-as        | -amos (estudiamos)                                           | -emos (aprendemos)                  | -imos (vivimos)           |
 | Vosotros/-as        | -áis (estudiáis)                                             | -éis (aprendéis)                    | -ís (vivís)               |
 | Ellos/Ellas/Ustedes | -an (estudian)                                               | -en (aprenden)                      | -en (viven)               |
-| Verben              | cocinar<br />estudiar<br />llamarse<br />trabajar<br />quedar | aprender<br />hacer<br />leer<br /> | escribir<br />vivir<br /> |
+| Verben              | cocinar<br />doblar<br />estudiar<br />girar<br />llamarse<br />trabajar<br />quedar | aprender<br />hacer<br />leer<br /> | escribir<br />vivir<br /> |
 
 ## Reflexive Verben
 
@@ -536,16 +688,16 @@ Subjektpronomen + *gustar*
 
 ### Verben mit Vokalwechsel:
 
-|                     | e -> i (z.B. pedir)                            | e -> ie (z.B. empezar)                                       | o -> ue (z.B. almorzar)                         | u -> ue (z.B. jugar)           |
-| ------------------- | ---------------------------------------------- | ------------------------------------------------------------ | ----------------------------------------------- | ------------------------------ |
-| Yo                  | p**i**do                                       | emp**ie**zo                                                  | alm**ue**rzo                                    | j**ue**go                      |
-| Tú                  | p**i**des                                      | emp**ie**zas                                                 | alm**ue**rzas                                   | j**ue**gas                     |
-| Él/Ella/Usted       | p**i**de                                       | emp**ie**za                                                  | alm**ue**rza                                    | j**ue**ga                      |
-| Nosotros/-as        | pedimoms                                       | empezamos                                                    | almorzamos                                      | jugamos                        |
-| Vosotros/-as        | pedís                                          | empezáis                                                     | almorzáis                                       | jugáis                         |
-| Ellos/Ellas/Ustedes | p**i**den                                      | emp**ie**zan                                                 | alm**ue**rzan                                   | j**ue**gan                     |
-| Notiz               | "Wir", "Ihr" bleibt regelmäßig                 | "Wir", "Ihr" bleibt regelmäßig                               | "Wir", "Ihr" bleibt regelmäßig                  | "Wir", "Ihr" bleibt regelmäßig |
-| Verben              | pedir<br />seguir<br />vestirse (me visto,...) | despertarse<br />empezar<br />pensar<br />preferir<br />querer | acostarse<br />almorzar<br />dormir<br />volver | jugar<br />                    |
+|                     | e -> i (z.B. pedir)                            | e -> ie (z.B. empezar)                                       | o -> ue (z.B. almorzar)                                    | u -> ue (z.B. jugar)           |
+| ------------------- | ---------------------------------------------- | ------------------------------------------------------------ | ---------------------------------------------------------- | ------------------------------ |
+| Yo                  | p**i**do                                       | emp**ie**zo                                                  | alm**ue**rzo                                               | j**ue**go                      |
+| Tú                  | p**i**des                                      | emp**ie**zas                                                 | alm**ue**rzas                                              | j**ue**gas                     |
+| Él/Ella/Usted       | p**i**de                                       | emp**ie**za                                                  | alm**ue**rza                                               | j**ue**ga                      |
+| Nosotros/-as        | pedimoms                                       | empezamos                                                    | almorzamos                                                 | jugamos                        |
+| Vosotros/-as        | pedís                                          | empezáis                                                     | almorzáis                                                  | jugáis                         |
+| Ellos/Ellas/Ustedes | p**i**den                                      | emp**ie**zan                                                 | alm**ue**rzan                                              | j**ue**gan                     |
+| Notiz               | "Wir", "Ihr" bleibt regelmäßig                 | "Wir", "Ihr" bleibt regelmäßig                               | "Wir", "Ihr" bleibt regelmäßig                             | "Wir", "Ihr" bleibt regelmäßig |
+| Verben              | pedir<br />seguir<br />vestirse (me visto,...) | despertarse<br />empezar<br />pensar<br />preferir<br />querer | acostarse<br />almorzar<br />dormir<br />poder<br />volver | jugar<br />                    |
 
 ### Verben mit unregelmäßigem yo:
 
@@ -559,6 +711,65 @@ Subjektpronomen + *gustar*
 | Ellos/Ellas/Ustedes | conocen                | saben             | ven              | hacen                                  | dan              |
 | Verben              | conocer                | saber<br />       | ver<br />        | hacer<br />poner<br />salir<br />tener | dar<br />ir      |
 
+### ohne Muster
+
+#### decir
+
+|                     | decir     |
+| ------------------- | --------- |
+| Yo                  | d**igo**  |
+| Tú                  | d**i**ces |
+| Él/Ella/Usted       | d**i**ce  |
+| Nosotros/-as        | decimos   |
+| Vosotros/-as        | decís     |
+| Ellos/Ellas/Ustedes | d**i**cen |
+
+## Ir vs. venir
+
+### ir
+
+≈ gehen
+
+- Bewegung weg vom Sprecher
+- Bewegung mit Ziel verschieden als aktueller Standpunkt des Sprechers
+  z.B. Luis (steht vor seinem Haus): Yo **voy** a casa de Lisa.
+- Einladen zu einer *unsicheren* Aktivität
+  z.B. ¿**Vamos** al cine mañana o tienes otro plan?
+         -> Noch nichts organisiert, Plan muss noch spezifiziert werden.
+
+|                     | ir    |
+| ------------------- | ----- |
+| Yo                  | voy   |
+| Tú                  | vas   |
+| Él/Ella/Usted       | va    |
+| Nosotros/-as        | vamos |
+| Vosotros/-as        | vais  |
+| Ellos/Ellas/Ustedes | van   |
+
+### venir
+
+≈ kommen
+
+- Bewegung zum Sprecher
+- Bewegung mit Ziel gleich wie aktueller Standpunkt des Sprechers
+  z.B. Lisa (steht vor ihrem Haus): Luis **viene** a mi casa.
+- Beschreiben woher man kommt: venir + de
+  z.B. **Vengo de** la biblioteca. (= ich komme von der Bibliothek -> Bibliothek = vorheriger Aufenthaltsort)
+- Einladen zu einer *sicheren* Aktivität
+  z.B. Laura y Lisa **vienen** als cine mañana.
+         -> gehen *sicher* ins Kino (z.B. Karten schon gekauft)
+
+|                     | venir      |
+| ------------------- | ---------- |
+| Yo                  | ven**go**  |
+| Tú                  | v**ie**nes |
+| Él/Ella/Usted       | v**ie**ne  |
+| Nosotros/-as        | venimos    |
+| Vosotros/-as        | venís      |
+| Ellos/Ellas/Ustedes | v**ie**nen |
+
+
+
 
 
 ## Ser vs. estar:
@@ -567,7 +778,7 @@ Subjektpronomen + *gustar*
 
 ### estar: 
 
-~ vorübergehende Zustände
+≈ vorübergehende Zustände
 
 - Örtliches Befinden 
   z.B. La fábrica **está** en Lima.
@@ -590,7 +801,7 @@ Subjektpronomen + *gustar*
 
 ### ser:
 
-~ dauerhafte Zustände
+≈ dauerhafte Zustände
 
 - Identifizieren, Definieren 
   z.B. Goya **es** un pintor famoso.
@@ -642,36 +853,56 @@ Subjektpronomen + *gustar*
 
 # Vorhandensein ausdrücken
 
-- ... haben ... = ... tener ...
-  ... hat ...       = ... tiene  ...
-  z.B. Ecuador **tiene** ríos.
+##### Hay
 
-- Hay + Substantiv 
-  **!** Im Plural ohne Artikel
+hay + ...
 
-  = In ... gibt es ... = En ... hay ...
-  z.B. **En** Ecuador **hay** ríos.
+- ... unbestimmter Artikel + Substantiv
+  z.B. Mi ciudad hay un banco / unas farmacias.
+- ... Substantiv Plural *ohne* Artikel 
+  z.B. Mi ciudad hay restuarantes
+         En Ecuador hay ríos.
+- ... Anzahl/Mengenangabe + Substantiv
+  z.B. Mi ciudad hay tres bancos.
+         Mi ciudad hay muchos restaurantes.
+
+##### Tener
+
+tener + ...
+
+- ... Substantiv *ohne* Artikel
+  z.B. Ecuador tiene ríos.
+
+
 
 # Wetter
 
-| Deutsch                    | Spanisch         |
-| -------------------------- | ---------------- |
-| Es ist heiß 🥵              | Hace calor       |
-| Es ist kalt 🥶              | Hace frío        |
-| Es ist sonnig ☀️            | Hace sol         |
-| Es ist windig 🌬            | Hace viento      |
-| Es hat schönes Wetter ☀️    | Hace buen tiempo |
-| Es hat schlechtes Wetter 🌧 | Hace mal tiempo  |
-| Es regnet 🌧                | Llueve           |
-| Es schneit ❄️               | Nieva            |
-| Es ist neblig 🌫            | Hay niebla       |
-| Es gewittert ⛈             | Hay tormenta     |
-| Es ist bewölkt ☁️           | Está nublado     |
-| Es ist klar ☀️              | Está despejado   |
+| Deutsch                    | Spanisch              |
+| -------------------------- | --------------------- |
+| Es ist heiß 🥵              | Hace calor            |
+| Es ist sonnig ☀️            | Hace sol              |
+| Es hat schönes Wetter ☀️    | Hace (un) buen tiempo |
+| Es ist klar ☀️              | Está despejado        |
+| Es ist kühl 🥶              | Hace fresco           |
+| Es ist kalt (unter Null) 🥶 | Hace frío             |
+| Es regnet 🌧                | Llueve                |
+| Es ist regnerisch 🌧        | Está lloviendo        |
+| Es schneit ❄️               | Nieva                 |
+| Es ist windig 🌬            | Hace viento           |
+| Es hat schlechtes Wetter 🌧 | Hace mal tiempo       |
+| Es ist bewölkt ☁️           | Está nublado          |
+| Es gewittert ⛈             | Hay tormenta          |
+| Es donnert ⛈               | Truena                |
+| Es ist neblig 🌫            | Hay niebla            |
 
 
 
 # Zahlen
+
+- von 200 - 900: Anpassung der Hunderter an Genus:
+  z.B. doscient**a**s cinco profesoras
+         doscient**o**s cinco profesores
+
 |           | Spanisch            |
 | :-------- | ------------------- |
 | 0         | cero                |
@@ -732,7 +963,22 @@ Subjektpronomen + *gustar*
 | 100 000   | cien mil            |
 | 1 000 000 | un millón           |
 
+## Ordinalzahlen
 
+|      | Spanisch     |
+| ---- | ------------ |
+| 1.   | primer/-o/-a |
+| 2.   | segundo/-a   |
+| 3.   | tercer/-o/-a |
+| 4.   | cuarto/-a    |
+| 5.   | quinto/-a    |
+| 6.   | sexto/-a     |
+| 7.   | séptimo/-a   |
+| 8.   | octavo/-a    |
+| 9.   | noveno/-a    |
+| 10   | décimo/-a    |
+
+ab 11: Grundzahlen
 
 # Zeichen
 
